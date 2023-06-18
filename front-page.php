@@ -65,7 +65,7 @@
     
     <div class="main-wrapper">
 	    <header class="page-title theme-bg-light text-center gradient py-5">
-			<h1 class="heading">My site is working!</h1>
+			<h1 class="heading">My site is still working!</h1>
 		</header>
 		<article class="content px-3 py-5 p-md-5">
 	    <div class='container'>
