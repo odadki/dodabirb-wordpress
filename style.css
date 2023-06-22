@@ -7,3 +7,8 @@ Tags: responsive, music
 Author: Danielle Oda
 Author URI: http://dodabirb.com
 */
+
+.h1,
+h1 {
+  color: red !important;
+}
