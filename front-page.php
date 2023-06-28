@@ -9,5 +9,5 @@ $body = get_field('cb01_body');
 	<img src="<?php echo $image['url']; ?>" />
 	<?php echo $body; ?>
 	<p>added p</p>
-	<!-- <p>added another p</p> -->
+	<p>added another p</p>
 </section>
