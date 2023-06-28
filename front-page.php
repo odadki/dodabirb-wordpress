@@ -7,4 +7,5 @@ $image = get_field('test_image');
 	<img src="<?php echo $image['url']; ?>" />
 	<?php echo esc_html(get_field('test_body')); ?>
 	<p>added p</p>
+	<p>added another p</p>
 </section>
