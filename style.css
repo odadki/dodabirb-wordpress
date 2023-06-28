@@ -8,7 +8,6 @@ Author: Danielle Oda
 Author URI: http://dodabirb.com
 */
 
-.h1,
-h1 {
+.test {
   color: red !important;
 }
