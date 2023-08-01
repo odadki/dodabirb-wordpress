@@ -11,6 +11,7 @@ $title2 = get_field('cb02_title');
 	<?php echo $body; ?>
 	<p>added p from code</p>
 	<p>added another p from code</p>
+	<p>hello</p>
 </section>
 <section>
 	<h2><?php echo $title2; ?></h2>
