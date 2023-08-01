@@ -2,6 +2,7 @@
 
 $image = get_field('cb01_image');
 $body = get_field('cb01_body');
+$title2 = get_field('cb02_title');
 ?>
 
 <section>
@@ -10,4 +11,7 @@ $body = get_field('cb01_body');
 	<?php echo $body; ?>
 	<p>added p from code</p>
 	<p>added another p from code</p>
+</section>
+<section>
+	<h2><?php echo $title2; ?></h2>
 </section>
